@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Kalkulator IMT\Kalkulator IMT\bin\Debug\Kalkulator IMT.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Kalkulator IMT\Kalkulator IMT\bin\Debug\Kalkulator IMT.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Kalkulator IMT\Kalkulator IMT\bin\Debug\Kalkulator IMT.xml
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Kalkulator IMT\Kalkulator IMT\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Kalkulator IMT\Kalkulator IMT\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Kalkulator IMT\Kalkulator IMT\obj\x86\Debug\Kalkulator IMT.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Kalkulator IMT\Kalkulator IMT\obj\x86\Debug\Kalkulator IMT.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Kalkulator IMT\Kalkulator IMT\obj\x86\Debug\Kalkulator IMT.xml
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Kalkulator IMT\Kalkulator IMT\obj\x86\Debug\Kalkulator IMT.pdb
